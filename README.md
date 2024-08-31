@@ -1,8 +1,7 @@
-# Document Replacer
+This bot is designed to automate (and therefore speed up) the work with DOCX contracts for commercial companies. It fills in documents based on a template and saves them as a fully completed DOCX document, with the data entered through the Telegram chat.
 
-Этот бот создан для автоматизации (а следовательно и ускорения) работы с docx договорами для коммерческих компаний. Он заполняет документы по шаблону и сохраняет уже в готовом заполненном docx документе, данные для которого вводятся в телеграм чате.
+The current version supports 6 templates:
 
-В данной версии поддерживаются 6 шаблонов:
-  -  разовый договор поставки для физ./юр. лиц
-  -  договор поставки на год для физ./юр. лиц
-  -  договор об оказании взаимовыгодных услуг для физ./юр. лиц
+- **One-time supply contract for individuals/legal entities**
+- **Annual supply contract for individuals/legal entities**
+- **Mutual beneficial services contract for individuals/legal entities**
